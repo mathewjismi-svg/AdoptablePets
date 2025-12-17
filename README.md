@@ -30,5 +30,9 @@ This analysis would be valuable to animal shelters or national pet adoption orga
 ## Repository Contents
 - `Adoptable_Pets.csv` – Original dataset  
 - `Adoptable_Pets_Cleaned.csv` – Cleaned dataset used for analysis  
-- `Final_Project_Notebook.ipynb` – Jupyter Notebook with data cleaning, analysis, and visualizations  
+- `Final Project - Milestone #2.ipynb` – Initial exploratory data analysis  
+- `Final Project - Milestone #3.ipynb` – Data cleaning and preparation  
+- `Final Project - Milestone #4.ipynb` – Data analysis and visualizations  
+- `Jismi Mathew - Final Project.ipynb` – Final notebook with full analysis  
+- `Adoptable Pets Project Summary - Data Science Programming.pdf` – One-page project summary  
 - `README.md` – Project overview and documentation  
